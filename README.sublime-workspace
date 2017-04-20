@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getAge"
+			],
+			[
+				"dia",
+				"diaAux,mesAux,anioAux"
+			],
+			[
+				"na",
+				"nacimiento"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"nick",
+				"nickAux"
+			],
+			[
+				"nombr",
+				"nombreAux"
+			],
+			[
+				"edad",
+				"edadAuxiliar"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"cal",
+				"calcularEdadConejo"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"ca",
+				"calcularEdadGato"
+			],
+			[
+				"calcula",
+				"calcularEdadPerro"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"validar",
+				"validarAnimal"
+			],
+			[
+				"calcu",
+				"calcularEdadGato"
+			],
+			[
+				"calcul",
+				"calcularEdadPerro"
+			],
+			[
+				"tipo",
+				"tipoAnimal"
+			],
+			[
+				"mostar",
+				"mostrarOtroVet"
+			],
+			[
+				"apell",
+				"apellido"
+			],
+			[
+				"campo",
+				"campoNoVacio"
+			],
+			[
+				"camp",
+				"campoNoVacio"
+			],
+			[
+				"ne",
+				"newCad[3"
+			],
+			[
+				"re",
+				"retornar"
+			],
+			[
+				"up",
+				"updateCR"
+			],
+			[
+				"o",
+				"operation"
+			],
+			[
+				"a",
+				"actualizar"
+			],
+			[
+				"delete",
+				"deleteCR"
+			],
+			[
+				"read",
+				"readCR"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"div",
+				"divCinco"
+			],
+			[
+				"code",
+				"codeHard"
+			],
+			[
+				"add",
+				"addOdd"
+			],
+			[
+				"ite",
+				"itemBuscado"
+			],
+			[
+				"numero",
+				"numero2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 259.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/laboratoria/.cache/.fr-lgPhD5/proyecto-sprint-1/main.js",
+		"/home/laboratoria/.cache/.fr-lgPhD5/proyecto-sprint-1/js/vendor/hols.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/ejercicio-evaluado/ejercicio-05_test.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/ejercicio-evaluado/ejercicio-05.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/08-code-modulation/ejercicio-02/tests/ejercicio-02-create_test.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/08-code-modulation/ejercicio-02/ejercicio-02.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/08-code-modulation/ejercicio-01/tests/ejercicio-01_test.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/08-code-modulation/ejercicio-01/ejercicio-01.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-07/test/test.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-07/ejercicio-07.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-05/ejercicio-05.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-06/ejercicio-06.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-06/test/test.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-05/test/test.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/package.json",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-05/test.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-05/test/ejercicio-05.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-01/ejercicio-01.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-02/test/test.js",
+		"/home/laboratoria/Desktop/miau/bootcamp-exercises/02-tdd/ejercicio-02/ejercicio-02.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
